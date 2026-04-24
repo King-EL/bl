@@ -1,3 +1,6 @@
 <div style="display:none;">
 <a href="https://sanctions.kse.ua/sanktsijna-analityka/">https://sanctions.kse.ua/sanktsijna-analityka/</a>
+<a href="https://sanctions.kse.ua/komanda/">https://sanctions.kse.ua/komanda/</a>
+
+
 </div>
