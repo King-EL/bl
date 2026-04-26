@@ -1,4 +1,6 @@
 <div style="display:none;">
+
+<a href="https://foundation.kse.ua/what-we-do/">https://foundation.kse.ua/what-we-do/</a>
 <a href="https://sanctions.kse.ua/sanktsijna-analityka/">https://sanctions.kse.ua/sanktsijna-analityka/</a>
 <a href="https://sanctions.kse.ua/komanda/">https://sanctions.kse.ua/komanda/</a>
 <a href="https://sanctions.kse.ua/en/yermak-mcfaul-group/">https://sanctions.kse.ua/en/yermak-mcfaul-group/</a>
